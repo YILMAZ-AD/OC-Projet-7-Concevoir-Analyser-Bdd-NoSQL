@@ -101,5 +101,5 @@ A sharding cluster was set up to separate Paris and Lyon data onto distinct serv
 ---
 
 ## --- 👤 Author ---
-YAD95  
+YILMAZ - AD  
 Project completed as part of the **Data Engineer** training — OpenClassrooms
