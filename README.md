@@ -100,5 +100,5 @@ Mise en place d'un cluster de sharding pour séparer les données Paris et Lyon 
 ---
 
 ## --- 👤 Auteur---
-YAD95 
+YILMAZ - AD 
 Projet réalisé dans le cadre de la formation **Data Engineer** — OpenClassrooms  
